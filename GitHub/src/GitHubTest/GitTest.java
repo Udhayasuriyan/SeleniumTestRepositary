@@ -6,7 +6,7 @@ public class GitTest {
 		//We can create a git project while creating the project in eclipse or if we have created normal java project, we can share the project
 		
 		System.out.println("Hello world");
-
+		System.out.println("HelloWorld");
 	}
 
 }
